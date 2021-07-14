@@ -1,0 +1,33 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+   background: url(pic.jpg); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr{
+  border-color:  #dc3545;
+  max-width: 60px;
+}
+.buffer{
+  height: 250px;
+}
+h1{
+  size: 3em;
+  color: black;
+  text-transform: uppercase;
+}
+
+.btn{
+  padding: 1em 3em;
+  font-weight: 650;
+  border-radius: 300px;
+  text-transform: uppercase;
+  background-color:  #dc3545;
+  border-color: #dc3545;
+  border-width: 1em;
+}
+
